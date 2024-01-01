@@ -2,7 +2,9 @@
 
 ## Inhalt
 
-Datensatz `allCountries.txt` der OpenGeoDB, heruntergeladen am 2024-01-01 aus dem unten verlinkten Gitlab-Repository.
+Datensatz `allCountries.txt` der OpenGeoDB, heruntergeladen am 2024-01-01 aus dem unten verlinkten Gitlab-Repository. Leider kommt dieser Datensatz ohne Header oder sonstige Beschreibung der Datenfelder.
+
+Die Datei `DE_PLZ.tab` aus dem selben Repo beinhaltet im Wesentlichen PLZ, Ortsname sowie GPS Koordinaten und beinhaltet einen einfachen Header. 
 
 ## Beschreibung
 
